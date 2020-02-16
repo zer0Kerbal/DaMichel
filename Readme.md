@@ -10,7 +10,8 @@ Licensed under CC-BY-SA-3.0 (Attribution, Share Alike)
 
 Content originally created by DaMichel.
 
-Packs / Versions
-![AeroRadial version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Faeroradial.json)
-![CargoBays version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fcargobays.json)
-![Fuselage version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Ffuselage.json)
+Packs / Versions:  
+![AeroRadial v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/aeroradial.json)
+![CargoBays v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/cargobays.json)
+![Fuselage v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/fuselage.json)
+![SphericalTanks v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/sphericaltanks.json)
