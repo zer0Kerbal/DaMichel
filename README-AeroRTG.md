@@ -1,5 +1,7 @@
 # AeroRadial
-![mod version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2FAeroRadial.json)
+![AeroRadial version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Faeroradial.json)
+
+
 ##### A continuation of DaMichel's Aero RTG Pack
 *originally named Radial Aerodynamic RTG*
 ***

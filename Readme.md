@@ -9,3 +9,8 @@ http://forum.kerbalspaceprogram.com/index.php?/topic/55842-partswip-damichels-pa
 Licensed under CC-BY-SA-3.0 (Attribution, Share Alike)
 
 Content originally created by DaMichel.
+
+Packs / Versions
+![AeroRadial version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Faeroradial.json)
+![CargoBays version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fcargobays.json)
+![Fuselage version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Ffuselage.json)
