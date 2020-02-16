@@ -76,7 +76,7 @@ Screenshots
 ***
 ## License
 ### Source: [GitHub](https://github.com/zer0Kerbal/DaMichel/AeroRadial)
-### License: ![CC 3.0 BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png ) [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/ )
+### License: ![CC BY-NC-SA 3.0](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png ) [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/ )
 > Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 
 >- ***All bundled mods are distributed under their own licenses***<br>
 >- ***All art assets (textures, models, animations) are distributed under their own licenses***<br>
@@ -87,12 +87,12 @@ Permission granted by original author:
 
 Source: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-**)
 License: Content originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/)  
-[Licensed under CC-BY-SA-3.0 (Attribution, Share Alike)](https://creativecommons.org/licenses/by-sa/3.0/)
+[Licensed under CC-BY-SA-3.0 (Attribution, Share Alike)](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
 Original: [Thread:](https://forum.kerbalspaceprogram.com/index.php?/topic/94517-*)  
 Source/License: [Source and license are included in the zip.](https://www.dropbox.com/s/yc2zymblmjgrik8/MoarKerbals-v1.1.rar?dl=0))  
 
 ###### v1.0.0.0 original: 11 Aug 2018 zed'K | updated: 17 Feb 2020 zed'K
-
+https://creativecommons.org/licenses/by-sa/3.0/
 <!--
 CC BY-NC-SA-3.0
 zer0Kerbal-->
