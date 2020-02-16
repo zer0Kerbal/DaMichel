@@ -17,8 +17,6 @@ Also available on CKAN. -->
 ## Author
 Adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/).*** Originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/).
 
-![DaMichel's  AeroRadial](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/8-RadialAerodynamicRTG.jpg "DaMichel's AeroRadial")
-
 ***Radial Aerodynamic RTG***, because [DaMichel] could. Has much lower drag in FAR than stock RTG due to not having attach nodes.
 
 Contains two radial parts:
@@ -26,9 +24,9 @@ Contains two radial parts:
 2. **[NEW]** PB-ZAP : A Radial Aerodynamic Fuel Cell Generator (LF+IA)- contains a small battery
 
 Screenshots
-![DaMichel's Parts Pack](https://i.imgur.com/fxpDZqn.png)
+![DaMichel's  AeroRadial](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/8-RadialAerodynamicRTG.jpg "DaMichel's AeroRadial")
 
-[Javascript is disabled. View full album](https://imgur.com/a/rFRN1)
+[View full album](https://imgur.com/a/rFRN1)
 <hr>
 
 #### Installation Directions 
@@ -53,7 +51,7 @@ Screenshots
 - [SimpleLife](https://forum.kerbalspaceprogram.com/index.php?/topic/191526-*)
 - [MoarKerbals](https://forum.kerbalspaceprogram.com/index.php?/topic/191525-*)
 - [SimpleConstruction)](https://forum.kerbalspaceprogram.com/index.php?/topic/191424-ksp-*)
-- [Not So SimpleConstruction (NSSC)](http://forum.kerbalspaceprogram.com/index.php?/topic/152
+- [Not So SimpleConstruction (NSSC)](https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*)
 - [SimpleLogistics](https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/)
 - [[Biomatic](https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*)
 - [KGEx (coming soon)]https://forum.kerbalspaceprogram.com/index.php?/topic/188246-*)
@@ -83,12 +81,13 @@ Screenshots
 >- ***All bundled mods are distributed under their own licenses***<br>
 >- ***All art assets (textures, models, animations) are distributed under their own licenses***<br>
 
-Source: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-**)
-License: Content originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/) and Licensed under CC-BY-SA-3.0 (Attribution, Share Alike).
 
 Permission granted by original author:
 ![DaMichel's Permission](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/LegalMumboJumbo/DaMichelPermission.png)
 
+Source: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-**)
+License: Content originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/)  
+Licensed under CC-BY-SA-3.0 (Attribution, Share Alike).
 Original: [Thread:](https://forum.kerbalspaceprogram.com/index.php?/topic/94517-*)  
 Source/License: [Source and license are included in the zip.](https://www.dropbox.com/s/yc2zymblmjgrik8/MoarKerbals-v1.1.rar?dl=0))  
 
