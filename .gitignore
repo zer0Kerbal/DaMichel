@@ -45,7 +45,7 @@
 *.xls
 *.xlsx
 
-docs/*
+doc/*
 old/*
 NetKAN/*
 
