@@ -12,10 +12,10 @@ Contains two radial parts:
 
 
 
-![AeroRadial](https://raw.githubusercontent.com/ColorCurves/colorcurves.github.io/master/pictures/DMTanks/DaMichel's%20Pics/Spherical%20Tanks%20stacked%20together%20-%20Imgur.jpg)
+![AeroRadial](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/8-RadialAerodynamicRTG.jpg)
 
 Permission granted by original author:
-http://forum.kerbalspaceprogram.com/index.php?/topic/55842-partswip-damichels-partsfuselage-r2-2222015/&do=findComment&comment=2568712
+![DaMichel's Permission](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/LegalMumboJump/DaMichelPermission.png)
 
 
 #### Requires
