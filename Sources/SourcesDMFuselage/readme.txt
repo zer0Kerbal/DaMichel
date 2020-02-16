@@ -1,0 +1,1 @@
+Highres versions of the meshes are missing here. I used them to make the normal maps and they are too big to include.
