@@ -60,7 +60,7 @@ Screenshots
 - [Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
 
 #### Supports
-- [TweakScale]
+- [TweakScale](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*)
 - [Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
 - [On Demand Fuel Cells (Refueled)](https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*)
 
