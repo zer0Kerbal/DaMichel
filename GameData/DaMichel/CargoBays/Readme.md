@@ -28,6 +28,7 @@ Contains three stack stock-a-like parts:
 
 Screenshots
 ![DaMichel's  CargoBays](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/9-CargoBay.jpg "DaMichel's CargoBays")
+![DaMichel's  CargoBays](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/13-CargoBay.jpg "DaMichel's CargoBays")
 
 [View full album](https://imgur.com/a/rFRN1)
 <hr>
