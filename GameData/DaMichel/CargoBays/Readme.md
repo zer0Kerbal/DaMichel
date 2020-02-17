@@ -80,7 +80,7 @@ Screenshots
 ***
 ## License
 ### Source: [GitHub](https://github.com/zer0Kerbal/DaMichel/AeroRadial)
-### License: ![CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey ) [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/ )
+### License: ![CC BY-NC-SA 3.0](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png) [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/ )
 > Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 
 >- ***All bundled mods are distributed under their own licenses***<br>
 >- ***All art assets (textures, models, animations) are distributed under their own licenses***<br>
