@@ -54,7 +54,7 @@ Screenshots
 - [Not So SimpleConstruction (NSSC)](https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*)
 - [SimpleLogistics](https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/)
 - [[Biomatic](https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*)
-- [KGEx (coming soon)]https://forum.kerbalspaceprogram.com/index.php?/topic/188246-*)
+- [KGEx (coming soon)](https://forum.kerbalspaceprogram.com/index.php?/topic/188246-*)
 - [Module Manager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-*)
 - [B9StockPatches](https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*)
 - [Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
@@ -68,10 +68,10 @@ Screenshots
 - mod,DaMichel,zer0Kerbal,parts,generator,fuelcell,radial,
   
 #### Replaces
-- none
+- [DaMichel's AeroRTG](DMTanks-AeroRTG)
 
 #### Conflicts
-- none
+- [DaMichel's AeroRTG](DMTanks-AeroRTG)
 
 ***
 ## License
