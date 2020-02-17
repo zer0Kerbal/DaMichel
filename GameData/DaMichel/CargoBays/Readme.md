@@ -17,7 +17,7 @@ Also available on CKAN. -->
 ## Author
 Adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/).*** Originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/).
 
-***Cargo Bay:*** 2.5 m diameter, relatively stock-like. Comes in heights of 1, 2 and 4 m for efficiency. Fits well to KWRocketry and B9 parts. The doors are designed to require less room for opening than a standard design made of a single door piece.
+***CargoBays:*** 2.5 m diameter, relatively stock-like. Comes in heights of 1, 2 and 4 m for efficiency. Fits well to KWRocketry and B9 parts. The doors are designed to require less room for opening than a standard design made of a single door piece.
 
 ~The CargoBay need the Firespitter DLL, which is not included at the moment. Get it from the Firespitter mod.~
 
@@ -79,7 +79,7 @@ Screenshots
 
 ***
 ## License
-### Source: [GitHub](https://github.com/zer0Kerbal/DaMichel/AeroRadial)
+### Source: [GitHub](https://github.com/zer0Kerbal/DaMichel/CargoBays)
 ### License: CC BY-NC-SA 3.0![CC BY-NC-SA 3.0](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png) [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/ )
 > Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 
 >- ***All bundled mods are distributed under their own licenses***<br>
