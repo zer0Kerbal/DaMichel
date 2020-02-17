@@ -86,8 +86,8 @@ Permission granted by original author:
 ![DaMichel's Permission](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/LegalMumboJumbo/DaMichelPermission.png)
 
 Source: https://forum.kerbalspaceprogram.com/index.php?/topic/55842-**)
-License: Content originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/)  
-[Licensed under CC-BY-SA-3.0 (Attribution, Share Alike)](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
+License: Content originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/)<br> 
+[Licensed under CC-BY-SA-3.0 (Attribution, Share Alike)](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)  
 Original: [Thread:](https://forum.kerbalspaceprogram.com/index.php?/topic/94517-*)  
 Source/License: [Source and license are included in the zip.](https://www.dropbox.com/s/yc2zymblmjgrik8/MoarKerbals-v1.1.rar?dl=0))  
 
