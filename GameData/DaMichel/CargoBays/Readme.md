@@ -12,10 +12,10 @@ Also available on CKAN. -->
 ![CargoBays version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fcargobays.json)
 ![KSP version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fksp.json) 
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![License CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey)
-> An electrical parts mod adding two sleek radially attached parts: one RTG and one Fuel Cell.
+> An payload parts mod that adds three 2.5m round cargobays in 1m, 2m, and 4m lengths with fold-flat door design.
 
 ## Author
-Adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/).*** Originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/).
+Adopted for curation by [zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/). Originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/).
 
 ***CargoBays:*** 2.5 m diameter, relatively stock-like. Comes in heights of 1, 2 and 4 m for efficiency. Fits well to KWRocketry and B9 parts. The doors are designed to require less room for opening than a standard design made of a single door piece.
 
@@ -47,9 +47,9 @@ Screenshots
 - none
 
 #### Recomends
-- [DaMichel's SphericalTanks]()
-- [DaMichel's Fuselage]()
-- [DaMichel's AeroRadial]()
+- [DaMichel's AeroRadial](https://spacedock.info/mod/2338)
+- [DaMichel's Fuselage](https://spacedock.info/mod/2340)
+- [DaMichel's SphericalTanks](https://spacedock.info/mod/2341)
 
 #### Suggests
 - [SimpleLife](https://forum.kerbalspaceprogram.com/index.php?/topic/191526-*)

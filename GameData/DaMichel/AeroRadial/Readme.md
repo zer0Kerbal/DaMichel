@@ -15,7 +15,7 @@ Also available on CKAN. -->
 > An electrical parts mod adding two streamlinedd radially attached parts: one RTG and one Fuel Cell.
 
 ## Author
-Adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/).*** Originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/).
+Adopted for curation by [zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/). Originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/).
 
 ***Radial Aerodynamic RTG***, because [DaMichel] could. Has much lower drag in FAR than stock RTG due to not having attach nodes.
 
@@ -43,9 +43,9 @@ Screenshots
 - none
 
 #### Recomends
-- [DaMichel's SphericalTanks]()
-- [DaMichel's Fuselage]()
-- [DaMichel's CargoBays]()
+- [DaMichel's CargoBays](https://spacedock.info/mod/2339)
+- [DaMichel's Fuselage](https://spacedock.info/mod/2340)
+- [DaMichel's SphericalTanks](https://spacedock.info/mod/2341)
 
 #### Suggests
 - [SimpleLife](https://forum.kerbalspaceprogram.com/index.php?/topic/191526-*)

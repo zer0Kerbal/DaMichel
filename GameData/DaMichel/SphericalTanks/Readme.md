@@ -15,7 +15,7 @@ Also available on CKAN. -->
 > Parts mod with five SphericalTanks with 1.25 m base from 0.625 to 10 t. (612.5L - 10,000L)
 
 ## Author
-Adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/).*** Originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/).
+Adopted for curation by [zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/). Originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/).
 
 ***SphericalTanks:*** 1.25 m diameter. Come with B9partswitch fuel patches(player supplied TAC-LS, Kerbalism, SNACKS!, and Karbonite) along with other user supplied patches.  *currently only available in veteran orange.*
 
@@ -48,9 +48,9 @@ Screenshots
 - none
 
 #### Recomends
-- [DaMichel's Fuselage]()
-- [DaMichel's CargoBays]()
-- [DaMichel's AeroRadial]()
+- [DaMichel's AeroRadial](https://spacedock.info/mod/2338)
+- [DaMichel's CargoBays](https://spacedock.info/mod/2339)
+- [DaMichel's Fuselage](https://spacedock.info/mod/2340)
 - [Module Manager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-*)
 
 #### Suggests
