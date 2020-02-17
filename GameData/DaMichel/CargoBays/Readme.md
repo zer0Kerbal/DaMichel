@@ -12,7 +12,7 @@ Also available on CKAN. -->
 ![CargoBays version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fcargobays.json)
 ![KSP version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fksp.json) 
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![License CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey)
-> An payload parts mod that adds three 2.5m round cargo-bays in 1m, 2m, and 4m lengths with fold-flat door design.
+> A payload parts mod that adds three 2.5m round cargo-bays in 1m, 2m, and 4m lengths with fold-flat door design.
 
 ## Author
 Adopted for curation by [zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/). Originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/).
