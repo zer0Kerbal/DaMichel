@@ -12,7 +12,7 @@ Also available on CKAN. -->
 ![AeroRadial version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Faeroradial.json)
 ![KSP version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fksp.json)
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![License CC 4.0 BY-NC-SA](https://img.shields.io/badge/License-CC--4.0--BY--SA-lightgrey)
-> An electrical parts mod adding two sleek radially attached parts: one RTG and one Fuel Cell.
+> An electrical parts mod adding two streamlines radially attached parts: one RTG and one Fuel Cell.
 
 ## Author
 Adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/).*** Originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/).
@@ -43,7 +43,7 @@ Screenshots
 - none
 
 #### Recomends
-- [DaMichel's Spherical Tanks]()
+- [DaMichel's SphericalTanks]()
 - [DaMichel's Fuselage]()
 - [DaMichel's CargoBays]()
 
@@ -76,7 +76,7 @@ Screenshots
 ***
 ## License
 ### Source: [GitHub](https://github.com/zer0Kerbal/DaMichel/AeroRadial)
-### License: CC 4.0 BY-NC-SA ![CC 4.0 BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png )
+### License: CC BY-NC-SA 3.0![CC 4.0 BY-NC-SA](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png )
 > Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 
 >- ***All bundled mods are distributed under their own licenses***<br>
 >- ***All art assets (textures, models, animations) are distributed under their own licenses***<br>

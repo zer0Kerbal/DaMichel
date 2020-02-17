@@ -47,7 +47,7 @@ Screenshots
 - none
 
 #### Recomends
-- [DaMichel's Spherical Tanks]()
+- [DaMichel's SphericalTanks]()
 - [DaMichel's Fuselage]()
 - [DaMichel's AeroRadial]()
 
@@ -80,7 +80,7 @@ Screenshots
 ***
 ## License
 ### Source: [GitHub](https://github.com/zer0Kerbal/DaMichel/AeroRadial)
-### License: CC 4.0 BY-NC-SA ![CC BY-NC-SA 3.0](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png) [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/ )
+### License: CC BY-NC-SA 3.0![CC BY-NC-SA 3.0](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png) [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/ )
 > Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 
 >- ***All bundled mods are distributed under their own licenses***<br>
 >- ***All art assets (textures, models, animations) are distributed under their own licenses***<br>

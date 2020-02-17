@@ -1,30 +1,34 @@
 <!-- Readme.md v1.2.0.0
-DaMichel's AeroRadial (DAR)
+DaMichel's Fuselage (DCB)
 created: 17 Jul 18
 updated: 17 Feb 2020 -->
 
 <!-- Download on SpaceDock here or Github here.
 Also available on CKAN. -->
 
-# DaMichel's AeroRadial  
+# DaMichel's Fuselage  
 ##### A continuation of DaMichel's Aero RTG Pack  
 *originally named Radial Aerodynamic RTG*  
-![AeroRadial version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Faeroradial.json)
-![KSP 1.7.3](https://img.shields.io/badge/KSP%20version-1.7.3-66ccff.svg?style=flat-square) 
+![Fuselage version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Ffuselage.json)
+![KSP version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fksp.json) 
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![License CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey)
 > An electrical parts mod adding two sleek radially attached parts: one RTG and one Fuel Cell.
 
 ## Author
 Adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/).*** Originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/).
 
-***Radial Aerodynamic RTG***, because [DaMichel] could. Has much lower drag in FAR than stock RTG due to not having attach nodes.
+***Cargo Bay:*** 2.5 m diameter, relatively stock-like. Comes in heights of 1, 2 and 4 m for efficiency. Fits well to KWRocketry and B9 parts. The doors are designed to require less room for opening than a standard design made of a single door piece.
 
-Contains two radial parts:
-1. PB-NUK-A Aerodynamic Radioisotope Thermoelectric Generator- contains a small battery
-2. **[NEW]** PB-ZAP : A Radial Aerodynamic Fuel Cell Generator (LF+IA)- contains a small battery
+~The CargoBay need the Firespitter DLL, which is not included at the moment. Get it from the Firespitter mod.~
 
-Screenshots
-![DaMichel's  AeroRadial](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/8-RadialAerodynamicRTG.jpg "DaMichel's AeroRadial")
+Contains three stack stock-a-like parts:
+1. 1m - 2.5m round cargo bay with fold-flat doors.
+2. 2m - 2.5m round cargo bay with fold-flat doors.
+3. 4m - 2.5m round cargo bay with fold-flat doors.\
+
+Screenshots  
+![DaMichel's  Fuselage](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/9-CargoBay.jpg "DaMichel's Fuselage")
+![DaMichel's  Fuselage](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/13-CargoBay.jpg "DaMichel's Fuselage")
 
 [View full album](https://imgur.com/a/rFRN1)
 <hr>
@@ -33,7 +37,7 @@ Screenshots
 - Use CKAN
 
 ### Changelog Summary
-*See [ChangeLog](https://github.com/zer0Kerbal/DaMichel/blob/master/GameData/DaMichel/AeroRadial/Changelog.cfg) for full details of mod changes*
+*See [ChangeLog](https://github.com/zer0Kerbal/DaMichel/blob/master/GameData/DaMichel/Fuselage/Changelog.cfg) for full details of mod changes*
 <hr>
 
 #### Requires
@@ -43,9 +47,9 @@ Screenshots
 - none
 
 #### Recomends
-- [DaMichel's Spherical Tanks]()
-- [DaMichel's Fuselage]()
+- [DaMichel's SphericalTanks]()
 - [DaMichel's CargoBays]()
+- [DaMichel's AeroRadial]()
 
 #### Suggests
 - [SimpleLife](https://forum.kerbalspaceprogram.com/index.php?/topic/191526-*)
@@ -58,25 +62,25 @@ Screenshots
 - [Module Manager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-*)
 - [B9StockPatches](https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*)
 - [Hot Beverages Irradiated](https://github.com/zer0Kerbal/HotBeverageIrradiated)
+- [On Demand Fuel Cells (Refueled)](https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*)
 
 #### Supports
 - [TweakScale](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*)
 - [Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
-- [On Demand Fuel Cells (Refueled)](https://forum.kerbalspaceprogram.com/index.php?/topic/187625-*)
 
 ### Tags
-- mod,DaMichel,zer0Kerbal,parts,generator,fuelcell,radial,
+- mod,DaMichel,zer0Kerbal,parts,generator,cargo,bay,
   
 #### Replaces
-- [DaMichel's AeroRTG](DMTanks-AeroRTG)
+- [DaMichel's Cargo Bays](http://colorcurves.github.io/Fuselage/)
 
 #### Conflicts
-- [DaMichel's AeroRTG](DMTanks-AeroRTG)
+- [DaMichel's Cargo Bays](DMTanks-Fuselage)
 
 ***
 ## License
 ### Source: [GitHub](https://github.com/zer0Kerbal/DaMichel/AeroRadial)
-### License: ![CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey ) [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/ )
+### License: CC BY-NC-SA 3.0![CC BY-NC-SA 3.0](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png) [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/ )
 > Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 
 >- ***All bundled mods are distributed under their own licenses***<br>
 >- ***All art assets (textures, models, animations) are distributed under their own licenses***<br>
