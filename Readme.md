@@ -1,3 +1,11 @@
+<!-- Readme.md v1.2.0.0
+DaMichel's Parts (DMP)
+created: 17 Jul 18
+updated: 10 Feb 2020 -->
+
+<!-- Download on SpaceDock here or Github here.
+Also available on CKAN. -->
+
 # DaMichel's Parts
 Packs / Versions:  
 ![AeroRadial v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/aeroradial.json) ![CargoBays v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/cargobays.json) ![Fuselage v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/fuselage.json) ![SphericalTanks v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/sphericaltanks.json)
@@ -26,10 +34,15 @@ Licensed under CC-BY-SA-3.0 (Attribution, Share Alike)
 
 Content originally created by DaMichel.
 ![Hero](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/1.1.0.0/Images/12-CargoBay.jpg)
-<--
+<!--
 Packs / Versions:  
 ![AeroRadial v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/aeroradial.json)
 ![CargoBays v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/cargobays.json)
 ![Fuselage v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/fuselage.json)
 ![SphericalTanks v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/sphericaltanks.json) -->
+
+###### v1.1.0.0 original: 11 Aug 2018 zed'K | updated: 17 Feb 2020 zed'K
+<!--
+CC BY-NC-SA-4.0
+zer0Kerbal-->
  
