@@ -26,7 +26,7 @@ Contains three stack stock-a-like parts:
 2. 2m - 2.5m round cargo bay with fold-flat doors.
 3. 4m - 2.5m round cargo bay with fold-flat doors.\
 
-Screenshots
+Screenshots  
 ![DaMichel's  CargoBays](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/9-CargoBay.jpg "DaMichel's CargoBays")
 ![DaMichel's  CargoBays](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/13-CargoBay.jpg "DaMichel's CargoBays")
 
@@ -37,7 +37,7 @@ Screenshots
 - Use CKAN
 
 ### Changelog Summary
-*See [ChangeLog](https://github.com/zer0Kerbal/DaMichel/blob/master/GameData/DaMichel/AeroRadial/Changelog.cfg) for full details of mod changes*
+*See [ChangeLog](https://github.com/zer0Kerbal/DaMichel/blob/master/GameData/DaMichel/CargoBays/Changelog.cfg) for full details of mod changes*
 <hr>
 
 #### Requires
