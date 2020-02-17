@@ -22,6 +22,9 @@ Packs / Versions:
  - Seven (7) flat fuselage pieces.
  
 This is a continuation of DaMichel's Part Pack.
+***
+![gallery](https://postimg.cc/gallery/1ds2abwku)
+***
 
 ![SphericalTanks](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/1.1.0.0/Images/1-SphericalTanks.jpg)  
 ![CargoBays](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/1.1.0.0/Images/CargoSpaceIllustration.png)  
