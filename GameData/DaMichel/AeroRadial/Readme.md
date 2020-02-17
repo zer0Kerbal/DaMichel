@@ -45,7 +45,7 @@ Screenshots
 #### Recomends
 - [DaMichel's CargoBays](https://spacedock.info/mod/2339)
 - [DaMichel's Fuselage](https://spacedock.info/mod/2340)
-- [DaMichel's SphericalTanks](https://spacedock.info/mod/2341)
+- [DaMichel's SphericalTanks](https://spacedock.info/mod/2342)
 
 #### Suggests
 - [SimpleLife](https://forum.kerbalspaceprogram.com/index.php?/topic/191526-*)

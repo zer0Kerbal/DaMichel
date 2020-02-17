@@ -1,5 +1,5 @@
 <!-- Readme.md v1.2.0.0
-DaMichel's SphericalTanks (MST)
+DaMichel's SphericalTanks (DST)
 created: 17 Jul 18
 updated: 17 Feb 2020 -->
 
