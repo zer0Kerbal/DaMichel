@@ -12,25 +12,24 @@ Also available on CKAN. -->
 ![Fuselage version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fsphericaltanks.json)
 ![KSP version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fksp.json) 
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![License CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey)
-> An electrical parts mod adding two sleek radially attached parts: one RTG and one Fuel Cell.
+> Parts mod with five SphericalTanks with 1.25 m base from 0.625 to 10 t. (612.5L - 10,000L)
 
 ## Author
 Adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/).*** Originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/).
 
-***SphericalTanks:*** 2.5 m diameter, relatively stock-like. Comes in heights of 1, 2 and 4 m for efficiency. Fits well to KWRocketry and B9 parts. The doors are designed to require less room for opening than a standard design made of a single door piece.
-
-~The CargoBay need the Firespitter DLL, which is not included at the moment. Get it from the Firespitter mod.~
+***SphericalTanks:*** 1.25 m diameter. Come with B9partswitch fuel patches(player supplied TAC-LS, Kerbalism, SNACKS!, and Karbonite) along with other user supplied patches.  *currently only available in veteran orange.*
 
 Contains five 1.25m spherical tanks:
-1. 1.25m 687.5L
-2. 1.25m 1,250L
-3. 1.25m 2,500L
-4. 1.25m 5,000L
-5. 1.25m 10,000L
+1. Mark 1 Spherical Fuel Tank - 612.5L (0.55m radius)
+2. Mark 1 Spherical Fuel Tank - 1250L (0.70m radius)
+3. Mark 1 Spherical Fuel Tank - 2500L (0.88m radius)
+4. Mark 1 Spherical Fuel Tank - 5000L (1.11m radius)
+5. Mark 1 Spherical Fuel Tank - 10,000L (1.40m radius)
 
 Screenshots  
-![DaMichel's  Fuselage](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/9-CargoBay.jpg "DaMichel's Fuselage")
-![DaMichel's  Fuselage](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/13-CargoBay.jpg "DaMichel's Fuselage")
+![DaMichel's  SphericalTanks](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/1-SphericalTanks.jpg "DaMichel's SphericalTanks")
+![DaMichel's  Fuselage](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/SpaceplaneAndSphericalTanks.png "DaMichel's SphericalTanks")
+![DaMichel's  Fuselage](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/2-SphericalTanks.jpg "DaMichel's SphericalTanks")
 
 [View full album](https://imgur.com/a/rFRN1)
 <hr>
@@ -39,7 +38,7 @@ Screenshots
 - Use CKAN
 
 ### Changelog Summary
-*See [ChangeLog](https://github.com/zer0Kerbal/DaMichel/blob/master/GameData/DaMichel/Fuselage/Changelog.cfg) for full details of mod changes*
+*See [ChangeLog](https://github.com/zer0Kerbal/DaMichel/blob/master/GameData/DaMichel/SphericalTanks/Changelog.cfg) for full details of mod changes*
 <hr>
 
 #### Requires
@@ -70,15 +69,20 @@ Screenshots
 - [TweakScale](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*)
 - [Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
 - [B9partswitch]
+- [SNACKS!]() beta
+- [ModularFuelTanks]()beta
+- [TAC-LS]()beta
+- [FuelSwitch]()beta or [IFS]()beta
+- [RealFuels]()beta
 
 ### Tags
 - mod,DaMichel,zer0Kerbal,parts,fuel,sphere,tank
   
 #### Replaces
-- [DaMichel's Cargo Bays](http://colorcurves.github.io/Fuselage/)
+- [DaMichel's SphericalTanks](http://colorcurves.github.io/Fuselage/)
 
 #### Conflicts
-- [DaMichel's Cargo Bays](DMTanks-Fuselage)
+- [DaMichel's SphericalTanks](DMTanks)
 
 ***
 ## License
