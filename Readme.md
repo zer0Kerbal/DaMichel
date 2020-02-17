@@ -15,14 +15,17 @@ Packs / Versions:
  
 This is a continuation of DaMichel's Part Pack.
 
-![SphericalTanksStacked](https://raw.githubusercontent.com/ColorCurves/colorcurves.github.io/master/pictures/DMTanks/DaMichel's%20Pics/Spherical%20Tanks%20stacked%20together%20-%20Imgur.jpg)
+![SphericalTanks](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/1.1.0.0/Images/1-SphericalTanks.jpg)  
+![CargoBays](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/1.1.0.0/Images/CargoSpaceIllustration.png)  
+![AeroRadial](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/1.1.0.0/Images/8-RadialAerodynamicRTG.jpg)  
+![Fuselage](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/1.1.0.0/Images/DaMichels-FuselageSystem.jpg)  
 
-Permission granted by original author:
-http://forum.kerbalspaceprogram.com/index.php?/topic/55842-partswip-damichels-partsfuselage-r2-2222015/&do=findComment&comment=2568712
+[Permission granted by original author](http://forum.kerbalspaceprogram.com/index.php?/topic/55842-partswip-damichels-partsfuselage-r2-2222015/&do=findComment&comment=2568712)
 
 Licensed under CC-BY-SA-3.0 (Attribution, Share Alike)
 
 Content originally created by DaMichel.
+![Hero](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/1.1.0.0/Images/12-CargoBay.jpg)
 <--
 Packs / Versions:  
 ![AeroRadial v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/aeroradial.json)
