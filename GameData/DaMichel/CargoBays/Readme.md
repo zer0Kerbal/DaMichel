@@ -1,19 +1,19 @@
 <!-- Readme.md v1.2.0.0
-DaMichel's AeroRadial (DAR)
+DaMichel's CargoBays (DCB)
 created: 17 Jul 18
 updated: 17 Feb 2020 -->
 
 <!-- Download on SpaceDock here or Github here.
 Also available on CKAN. -->
 
-# DaMichel's AeroRadial  
+# DaMichel's CargoBays  
 ##### A continuation of DaMichel's Aero RTG Pack  
 *originally named Radial Aerodynamic RTG*  
-![AeroRadial version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Faeroradial.json)
-![KSP 1.7.3](https://img.shields.io/badge/KSP%20version-1.7.3-66ccff.svg?style=flat-square) 
+![CargoBays version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fcargobays.json)
+![KSP version](https://img.shields.io/badge/KSP%20version-1.7.3-66ccff.svg?style=flat-square) 
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![License CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey)
 > An electrical parts mod adding two sleek radially attached parts: one RTG and one Fuel Cell.
-
+https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fksp.json
 ## Author
 Adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/).*** Originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/).
 
