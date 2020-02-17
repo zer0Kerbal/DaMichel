@@ -19,14 +19,14 @@ Adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/ind
 
 ***Fuselage:*** These parts are rectangular fuselage pieces meant to be radially attached. You get two center pieces, an air inlet, a terminal piece, an adapter to the standard 1.25 m parts and as extras a smallish tail boom and a slanted cone. Patch for B9 fuel switch included. The remaining patches are /YMMV/.
 
-Contains three stack stock-a-like parts:
-1. tank
-2. tank - long
-3. air inlet
-4. terminal piece
-5. flat to 1.25m adapter
-6. radially attached tail boom
-7. slanted cone
+### Contains three stack stock-a-like parts:
+1. X1 center tank  
+2. X2 center tank - long  
+3. air inlet  
+4. terminal piece  
+5. flat to 1.25m adapter  
+6. radially attached tail boom  
+7. slanted cone  
 
 Screenshots  
 ![DaMichel's  Fuselage](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/DaMichels-FuselageSystem.jpg "DaMichel's Fuselage")

@@ -12,19 +12,19 @@ Also available on CKAN. -->
 ![CargoBays version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fcargobays.json)
 ![KSP version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fksp.json) 
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![License CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey)
-> An payload parts mod that adds three 2.5m round cargobays in 1m, 2m, and 4m lengths with fold-flat door design.
+> An payload parts mod that adds three 2.5m round cargo-bays in 1m, 2m, and 4m lengths with fold-flat door design.
 
 ## Author
 Adopted for curation by [zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/). Originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/).
 
 ***CargoBays:*** 2.5 m diameter, relatively stock-like. Comes in heights of 1, 2 and 4 m for efficiency. Fits well to KWRocketry and B9 parts. The doors are designed to require less room for opening than a standard design made of a single door piece.
 
-~The CargoBay need the Firespitter DLL, which is not included at the moment. Get it from the Firespitter mod.~
+~The CargoBay needs the Firespitter DLL, which is not included at the moment. Get it from the Firespitter mod.~
 
-Contains three stack stock-a-like parts:
-1. 1m - 2.5m round cargo bay with fold-flat doors.
-2. 2m - 2.5m round cargo bay with fold-flat doors.
-3. 4m - 2.5m round cargo bay with fold-flat doors.\
+### Contains three stack stock-a-like parts:
+1. 1m - 2.5m round cargo bay with fold-flat doors.  
+2. 2m - 2.5m round cargo bay with fold-flat doors.  
+3. 4m - 2.5m round cargo bay with fold-flat doors.  
 
 Screenshots  
 ![DaMichel's  CargoBays](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/9-CargoBay.jpg "DaMichel's CargoBays")

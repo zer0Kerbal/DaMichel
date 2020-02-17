@@ -19,12 +19,12 @@ Adopted for curation by [zer0Kerbal](https://forum.kerbalspaceprogram.com/index.
 
 ***SphericalTanks:*** 1.25 m diameter. Come with B9partswitch fuel patches(player supplied TAC-LS, Kerbalism, SNACKS!, and Karbonite) along with other user supplied patches.  *currently only available in veteran orange.*
 
-Contains five 1.25m spherical tanks:
-1. Mark 1 Spherical Fuel Tank - 612.5L (0.55m radius)
-2. Mark 1 Spherical Fuel Tank - 1250L (0.70m radius)
-3. Mark 1 Spherical Fuel Tank - 2500L (0.88m radius)
-4. Mark 1 Spherical Fuel Tank - 5000L (1.11m radius)
-5. Mark 1 Spherical Fuel Tank - 10,000L (1.40m radius)
+### Contains five 1.25m spherical tanks:
+1. Mark 1 Spherical Fuel Tank - 612.5L (0.55m radius)  
+2. Mark 1 Spherical Fuel Tank - 1250L (0.70m radius)  
+3. Mark 1 Spherical Fuel Tank - 2500L (0.88m radius)  
+4. Mark 1 Spherical Fuel Tank - 5000L (1.11m radius)  
+5. Mark 1 Spherical Fuel Tank - 10,000L (1.40m radius)  
 
 Screenshots  
 ![DaMichel's  SphericalTanks](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/1-SphericalTanks.jpg "DaMichel's SphericalTanks")
