@@ -9,7 +9,7 @@ Also available on CKAN. -->
 # DaMichel's SphericalTanks  
 ##### A continuation of DaMichel's SphericalTanks (DM-Tanks))  
 *originally named DM-Tanks*  
-![Fuselage version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fsphericaltanks.json)
+![SphericalTanks version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fsphericaltanks.json)
 ![KSP version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fksp.json) 
 ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![License CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey)
 > Parts mod with five SphericalTanks with 1.25 m base from 0.625 to 10 t. (612.5L - 10,000L)
