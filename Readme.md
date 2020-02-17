@@ -5,9 +5,13 @@ Packs / Versions:
  ![KSP version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fksp.json) ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![License CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey)
  
  ### SphericalTanks
+ - Five (5) 1.25m spherical tanks. Available in veteran orange.
  ### CargoBays
+ - Three (3) 2.5m rocket cargo bays in 1m, 2m, and 4m lengths. Flat fold doors.
  ### AeroRadial
+ - Two (2) streamlined, radially attached power products. One RTG, the other a Liquid Fuel and Intake Air powered fuel cell.
  ### Fuselage
+ - Seven (7) flat fuselage pieces.
  
 This is a continuation of DaMichel's Part Pack.
 
