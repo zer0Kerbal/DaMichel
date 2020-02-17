@@ -17,22 +17,31 @@ Also available on CKAN. -->
 ## Author
 Adopted for curation by ***[zer0Kerbal](https://forum.kerbalspaceprogram.com/index.php?/profile/190933-*/).*** Originally created by [DaMichel](https://forum.kerbalspaceprogram.com/index.php?/profile/93697-damichel/).
 
-***Cargo Bay:*** 2.5 m diameter, relatively stock-like. Comes in heights of 1, 2 and 4 m for efficiency. Fits well to KWRocketry and B9 parts. The doors are designed to require less room for opening than a standard design made of a single door piece.
-
-~The CargoBay need the Firespitter DLL, which is not included at the moment. Get it from the Firespitter mod.~
+***Fuselage:*** These parts are rectangular fuselage pieces meant to be radially attached. You get two center pieces, an air inlet, a terminal piece, an adapter to the standard 1.25 m parts and as extras a smallish tail boom and a slanted cone. Patch for B9 fuel switch included. The remaining patches are /YMMV/.
 
 Contains three stack stock-a-like parts:
-1. 1m - 2.5m round cargo bay with fold-flat doors.
-2. 2m - 2.5m round cargo bay with fold-flat doors.
-3. 4m - 2.5m round cargo bay with fold-flat doors.\
+1. tank
+2. tank - long
+3. air inlet
+4. terminal piece
+5. flat to 1.25m adapter
+6. radially attached tail boom
+7. slanted cone
 
 Screenshots  
-![DaMichel's  Fuselage](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/9-CargoBay.jpg "DaMichel's Fuselage")
-![DaMichel's  Fuselage](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/13-CargoBay.jpg "DaMichel's Fuselage")
+![DaMichel's  Fuselage](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/DaMichels-FuselageSystem.jpg "DaMichel's Fuselage")
 
 [View full album](https://imgur.com/a/rFRN1)
 <hr>
-
+> * ***RealFuels compatibiliy:*** configs are included.
+> 
+> * ***AJE compatiblity:*** The inlet has a configuration for AJE. I copied the config for the Sp+ rectangular inlet and made the inlet area larger. Not sure what i'm doing though.
+> 
+> * ***Swappable Tanks:*** If you have the Firespitter DLL and no RealFuels it will use it to give the parts swappable tanks. So you can chose between LF, LF+OX and MP variants.
+> 
+> * ***Usage of FerramAerospaceResearch*** is strongly recommended. The parts have some values for stock aerodynamic parameters but i have no idea if they are reasonable nor will i take the time to balance for stock. In contrast, FAR figures this stuff out automagically.
+> 
+> * ***ActiveTextureManager:*** I include a configuration which scaling in general and compression of the normal map. If you li
 #### Installation Directions 
 - Use CKAN
 
@@ -67,6 +76,9 @@ Screenshots
 #### Supports
 - [TweakScale](https://forum.kerbalspaceprogram.com/index.php?/topic/179030-*)
 - [Kerbal Change Log](https://forum.kerbalspaceprogram.com/index.php?/topic/179207-*)
+- [RealFuels]()
+- [Advanced Jet Engine (AJE) compatiblity]()
+- [ActiveTextureManager]()
 
 ### Tags
 - mod,DaMichel,zer0Kerbal,parts,generator,cargo,bay,
@@ -79,7 +91,7 @@ Screenshots
 
 ***
 ## License
-### Source: [GitHub](https://github.com/zer0Kerbal/DaMichel/AeroRadial)
+### Source: [GitHub](https://github.com/zer0Kerbal/DaMichel/Fuselage)
 ### License: CC BY-NC-SA 3.0![CC BY-NC-SA 3.0](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png) [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/ )
 > Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 
 >- ***All bundled mods are distributed under their own licenses***<br>
