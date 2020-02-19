@@ -1,0 +1,62 @@
+// B9FuelSwitch.cfg - v 1.6.0.1
+// DaMichel SphericalTanks
+// created: 01 Aug 2019
+// updated: 15 Feb 2020
+
+VARIANTTHEME
+{
+	name = Stock
+	displayName = Stock
+	description = This is the default texture for the most of the parts
+	primaryColor = #ffffff
+	secondaryColor = #000000
+}
+
+@PART[DM-SphericalTank-125-55,DM-SphericalTank-125-70,DM-SphericalTank-125-88,DM-SphericalTank-125-111,DM-SphericalTank-125-140] //Create default texture Variant for all parts
+{
+	%MODULE[ModulePartVariants]
+	{
+		name = ModulePartVariants
+		primaryColor = #ffffff
+		secondaryColor = #000000
+		baseDisplayName = Stock
+		baseThemeName = Stock
+	}
+}
+
+@PART[DM-SphericalTank-125-55,DM-SphericalTank-125-70,DM-SphericalTank-125-88,DM-SphericalTank-125-111,DM-SphericalTank-125-140]:NEEDS[B9PartSwitch,DaMichel/SphericalTanks,!CryoTanks]:FOR[SphericalTanks]
+{
+	MODULE
+	{
+		name = ModulePartVariants
+		primaryColor = #808080
+		secondaryColor = #342f2f
+		baseDisplayName = Default
+		baseThemeName = red
+		VARIANT
+		{
+			name = by
+			displayName = Black-Cream
+			themeName = by
+			primaryColor = #595959
+			secondaryColor = #998a7a
+		TEXTURE
+		{
+			materialName = c125-colormap
+			mainTextureURL = DaMichel/SphericalTanks/Parts/c125-colormap
+		}
+		}
+		VARIANT
+		{
+			name = red
+			displayName = Black-Cream
+			themeName = red
+			primaryColor = #808080
+			secondaryColor = #998a7a
+			TEXTURE
+		{
+			mainTextureURL = RAGTT/Parts/VOSTOK/b
+		}
+		}
+	}
+}
