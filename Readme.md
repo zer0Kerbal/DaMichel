@@ -24,6 +24,7 @@ Packs / Versions:
 This is a continuation of DaMichel's Part Pack.
 ***
 ![gallery](https://postimg.cc/gallery/1ds2abwku)
+[https://youtu.be/sYEXrGT44jo](https://youtu.be/sYEXrGT44jo)
 ***
 
 ![SphericalTanks](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/1.1.0.0/Images/1-SphericalTanks.jpg)  

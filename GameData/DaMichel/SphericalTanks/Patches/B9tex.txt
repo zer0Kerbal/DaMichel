@@ -1,0 +1,139 @@
+@PART[OrbitalTugCore]:NEEDS[B9PartSwitch]:FOR[OrbitalTug]
+{
+	MODULE
+	{
+		moduleID = fuelSwitch
+		name = ModuleB9PartSwitch
+		baseVolume = 400
+		switcherDescription = Tank Type
+		SUBTYPE
+		{
+			name = LqdFuel_Mono
+			title = LqdFuel/Mono
+			tankType = LiquidMono
+		}
+		SUBTYPE
+		{
+			name = Mono
+			title = Mono
+			tankType = MonoPropellant
+		}
+		SUBTYPE
+		{
+			name = LFO_Mono
+			title = LFO & Mono
+			tankType = LFOMono
+		}
+	}
+
+	MODULE
+	{
+		moduleID = colorSwitch
+		name = ModuleB9PartSwitch
+		switcherDescription = Accent Stripe Color
+		SUBTYPE
+		{
+			name = Black
+			descriptionSummary = Black Accent Stripes (Default)
+			descriptionDetail = Default Black Accent Stripes
+			primaryColor = Black
+			secondaryColor = Black
+			TEXTURE
+			{
+				texture = OrbitalTug/Colors/stripes_blk
+				transform = corePattern
+			}
+		}
+		SUBTYPE
+		{
+			name = Blue
+			descriptionSummary = Blue Accent Stripes
+			descriptionDetail = Blue Accent Stripes
+			primaryColor = Blue
+			secondaryColor = Blue
+			TEXTURE
+			{
+				texture = OrbitalTug/Colors/stripes_blue
+				transform = corePattern
+			}
+		}
+		SUBTYPE
+		{
+			name = Teal
+			descriptionSummary = Teal Accent Stripes
+			descriptionDetail = Teal Accent Stripes
+			primaryColor = Teal
+			secondaryColor = Teal
+			TEXTURE
+			{
+				texture = OrbitalTug/Colors/stripes_teal
+				transform = corePattern
+			}
+		}
+		SUBTYPE
+		{
+			name = Green
+			descriptionSummary = Green Accent Stripes
+			descriptionDetail = Green Accent Stripes
+			primaryColor = Green
+			secondaryColor = Green
+			TEXTURE
+			{
+				texture = OrbitalTug/Colors/stripes_green
+				transform = corePattern
+			}
+		}
+		SUBTYPE
+		{
+			name = Orange
+			descriptionSummary = Orange Accent Stripes
+			descriptionDetail = Orange Accent Stripes
+			primaryColor = Orange
+			secondaryColor = Orange
+			TEXTURE
+			{
+				texture = OrbitalTug/Colors/stripes_orange
+				transform = corePattern
+			}
+		}
+		SUBTYPE
+		{
+			name = Purple
+			descriptionSummary = Purple Accent Stripes
+			descriptionDetail = Purple Accent Stripes
+			primaryColor = Purple
+			secondaryColor = Purple
+			TEXTURE
+			{
+				texture = OrbitalTug/Colors/stripes_purple
+				transform = corePattern
+			}
+		}
+		SUBTYPE
+		{
+			name = Red
+			descriptionSummary = Red Accent Stripes
+			descriptionDetail = Red Accent Stripes
+			primaryColor = Red
+			secondaryColor = Red
+			TEXTURE
+			{
+				texture = OrbitalTug/Colors/stripes_red
+				transform = corePattern
+			}
+		}
+		SUBTYPE
+		{
+			name = White
+			descriptionSummary = White Accent Stripes
+			descriptionDetail = White Accent Stripes
+			primaryColor = White
+			secondaryColor = White
+			TEXTURE
+			{
+				texture = OrbitalTug/Colors/stripes_white
+				transform = corePattern
+			}
+		}
+	}
+}
