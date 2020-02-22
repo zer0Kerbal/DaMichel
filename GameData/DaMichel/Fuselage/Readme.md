@@ -1,4 +1,4 @@
-<!-- Readme.md v1.2.0.0
+<!-- Readme.md v1.2.0.1
 DaMichel's Fuselage (DMF)
 created: 17 Jul 18
 updated: 17 Feb 2020 -->
@@ -107,7 +107,7 @@ License: Content originally created by [DaMichel](https://forum.kerbalspaceprogr
 Original: [Thread:](https://forum.kerbalspaceprogram.com/index.php?/topic/94517-*)  
 Source/License: [Source and license are included in the zip.](https://www.dropbox.com/s/yc2zymblmjgrik8/MoarKerbals-v1.1.rar?dl=0))  
 
-###### v1.1.0.0 original: 11 Aug 2018 zed'K | updated: 17 Feb 2020 zed'K
+###### v1.1.0.1original: 21 Aug 2018 zed'K | updated: 17 Feb 2020 zed'K
 https://creativecommons.org/licenses/by-sa/3.0/
 
 <!--
