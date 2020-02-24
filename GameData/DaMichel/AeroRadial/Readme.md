@@ -1,7 +1,7 @@
-<!-- Readme.md v1.2.0.0
+<!-- Readme.md v1.2.0.1
 DaMichel's AeroRadial (DAR)
 created: 17 Jul 18
-updated: 17 Feb 2020 -->
+updated: 22 Feb 2020 -->
 
 <!-- Download on SpaceDock here or Github here.
 Also available on CKAN. -->
@@ -91,7 +91,7 @@ Licensed under CC-BY-SA-3.0 (Attribution, Share Alike).
 Original: [Thread:](https://forum.kerbalspaceprogram.com/index.php?/topic/94517-*)  
 Source/License: [Source and license are included in the zip.](https://www.dropbox.com/s/yc2zymblmjgrik8/MoarKerbals-v1.1.rar?dl=0))  
 
-###### v1.1.0.0 original: 11 Aug 2018 zed'K | updated: 17 Feb 2020 zed'K
+###### v1.1.0.1 original: 11 Aug 2018 zed'K | updated: 22 Feb 2020 zed'K
 
 <!--
 CC BY-NC-SA-4.0
