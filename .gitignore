@@ -69,3 +69,6 @@ obj/
 TestResult.xml
 
 *.psd
+*.dae
+*.blend
+*.dxf
