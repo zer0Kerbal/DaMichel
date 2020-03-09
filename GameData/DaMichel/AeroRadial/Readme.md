@@ -54,7 +54,7 @@ Adopted for curation by [zer0Kerbal](https://forum.kerbalspaceprogram.com/index.
 - [SimpleConstruction)](https://forum.kerbalspaceprogram.com/index.php?/topic/191424-ksp-*)
 - [Not So SimpleConstruction (NSSC)](https://forum.kerbalspaceprogram.com/index.php?/topic/191504-*)
 - [SimpleLogistics](https://forum.kerbalspaceprogram.com/index.php?/topic/191045-*/)
-- [[Biomatic](https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*)
+- [Biomatic](https://forum.kerbalspaceprogram.com/index.php?/topic/191426-*)
 - [KGEx (coming soon)](https://forum.kerbalspaceprogram.com/index.php?/topic/188246-*)
 - [Module Manager](http://forum.kerbalspaceprogram.com/index.php?/topic/50533-105-*)
 - [B9StockPatches](https://forum.kerbalspaceprogram.com/index.php?/topic/190870-*)
