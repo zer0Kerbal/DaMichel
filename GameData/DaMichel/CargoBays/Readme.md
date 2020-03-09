@@ -21,10 +21,13 @@ Adopted for curation by [zer0Kerbal](https://forum.kerbalspaceprogram.com/index.
 
 ~The CargoBay needs the Firespitter DLL, which is not included at the moment. Get it from the Firespitter mod.~
 
-### Contains three stack stock-a-like parts:
-1. 1m - 2.5m round cargo bay with fold-flat doors.  
-2. 2m - 2.5m round cargo bay with fold-flat doors.  
-3. 4m - 2.5m round cargo bay with fold-flat doors.  
+### Contains three stack stock-a-like parts in two sized (6 total parts):
+1. 2.5m x 1m round cargo bay with fold-flat doors  
+2. 2.5m x 2m round cargo bay with fold-flat doors  
+3. 2.5m x 4m round cargo bay with fold-flat doors  
+4. 3.75m x 1.5m round cargo bay with fold-flat doors
+5. 3.75m x 3m round cargo bay with fold-flat doors
+6. 3.75m x 6m round cargo bay with fold-flat doors.  
 
 Screenshots  
 ![DaMichel's  CargoBays](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/Images/9-CargoBay.jpg "DaMichel's CargoBays")
@@ -84,7 +87,6 @@ Screenshots
 > Attribution-NonCommercial-ShareAlike (CC BY-NC-SA) 
 >- ***All bundled mods are distributed under their own licenses***<br>
 >- ***All art assets (textures, models, animations) are distributed under their own licenses***<br>
-
 
 Permission granted by original author:
 ![DaMichel's Permission](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/LegalMumboJumbo/DaMichelPermission.png)
