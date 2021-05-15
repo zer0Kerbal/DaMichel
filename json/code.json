@@ -1,9 +1,8 @@
 {
   "schemaVersion": 1,
-  "label": "KSP",
+  "label": "Code",
   "labelColor": "darkblue",
-  "message": "1.11.2",
+  "message": "<ModuleManager>",
   "color": "66ccff",
   "style": "plastic"  
 }
-
