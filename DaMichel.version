@@ -1,0 +1,30 @@
+{
+	"NAME"		     : "DaMichelInc (DMI)",
+	"URL"			 : "https://raw.githubusercontent.com/zer0Kerbal/DaMichelInc/master/DaMichelInc.version",
+	"DOWNLOAD"	     : "https://github.com/zer0Kerbal/DaMichelInc/releases/latest",
+	"CHANGE_LOG_URL" : "https://raw.githubusercontent.com/zer0Kerbal/DaMichelInc/master/changelog.md",
+	"GITHUB" :
+	{
+		"USERNAME"	        : "zer0Kerbal",
+		"REPOSITORY"		: "DaMichelInc",
+		"ALLOW_PRE_RELEASE" : false
+	},
+	"VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 4,
+		"PATCH" : 0,
+		"BUILD" : 0
+	},
+	"KSP_VERSION" :
+	{
+		"MAJOR" : 1,
+		"MINOR" : 12,
+		"PATCH" : 3
+	},
+	"INSTALL_LOC" :
+	{
+		"NAME" :	  "DaMichelInc",
+		"DIRECTORY" : "DaMichel"
+	}
+}
