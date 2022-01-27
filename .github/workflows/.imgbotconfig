@@ -1,4 +1,10 @@
-# https://github.com/imgbot/Imgbot/blob/master/Docs/ignoring-files.md
-"ignoredFiles": [
-    "**/GameData/**"
-]
+{
+    "schedule": "daily",
+    "ignoredFiles": [
+        "**/GameData/**",
+        "dos/LegalMumboJumbo/*"
+    ],
+    "aggressiveCompression": "false"
+    "compressWiki": "true"
+    "minKBReduced": 500
+}
