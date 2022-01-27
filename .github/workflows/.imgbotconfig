@@ -1,0 +1,4 @@
+# https://github.com/imgbot/Imgbot/blob/master/Docs/ignoring-files.md
+"ignoredFiles": [
+    "**/GameData/**"
+]
