@@ -1,0 +1,10 @@
+{
+    "schedule": "daily",
+    "ignoredFiles": [
+        "**/GameData/**",
+        "dos/LegalMumboJumbo/*"
+    ],
+    "aggressiveCompression": "false"
+    "compressWiki": "true"
+    "minKBReduced": 500
+}
