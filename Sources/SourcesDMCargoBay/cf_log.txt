@@ -1,4 +1,0 @@
-Warning: Unsupported Euler rotation order, must be XYZ (file: 'C:\KSP_DEV\Workspace-Parts\DaMichel\Sources\SourcesDMCargoBay\c4dr16_sbay_merged_for_export.dae') []
-Warning: Unsupported Euler rotation order, must be XYZ (file: 'C:\KSP_DEV\Workspace-Parts\DaMichel\Sources\SourcesDMCargoBay\c4dr16_sbay_merged_for_export.dae') []
-Warning: Unsupported Euler rotation order, must be XYZ (file: 'C:\KSP_DEV\Workspace-Parts\DaMichel\Sources\SourcesDMCargoBay\c4dr16_sbay_merged_for_export.dae') []
-Warning: Unsupported Euler rotation order, must be XYZ (file: 'C:\KSP_DEV\Workspace-Parts\DaMichel\Sources\SourcesDMCargoBay\c4dr16_sbay_merged_for_export.dae') []
