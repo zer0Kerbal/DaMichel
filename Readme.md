@@ -3,14 +3,11 @@ DaMichel's Parts (DMP)
 created: 17 Jul 18
 updated: 17 Feb 2020 -->
 
-<!-- Download on SpaceDock here or Github here.
-Also available on CKAN. -->
-
 # DaMichel's Parts
 Packs / Versions:  
 ![AeroRadial v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/aeroradial.json) ![CargoBays v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/cargobays.json) ![Fuselage v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/fuselage.json) ![SphericalTanks v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/sphericaltanks.json)
 
- ![KSP version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fksp.json) ![CKAN listed](https://img.shields.io/badge/CKAN-Indexed-brightgreen.svg) ![License CC BY-NC-SA 3.0](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-lightgrey)
+ ![KSP version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fksp.json) ![CKAN listed](https://img.shields.io/badge/CKAN-DaMichel-brightgreen.svg) ![License CC BY-NC-ND 3.0](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Flicense.json)
  
  ### SphericalTanks
  - Five (5) 1.25m spherical tanks. Available in veteran orange.
