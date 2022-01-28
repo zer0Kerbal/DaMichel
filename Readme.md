@@ -3,7 +3,7 @@ DaMichel's Parts (DMP)
 created: 17 Jul 18
 updated: 17 Feb 2020 -->
 
-# DaMichel's Parts
+# DaMichel Inc
 Packs / Versions:  
 ![AeroRadial v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/json/mod.json) ![CargoBays v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/json/mod.json) ![Fuselage v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Fuselage/master/json/mod.json) ![SphericalTanks v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SphericalTanks/master/json/mod.json)
 
