@@ -9,7 +9,7 @@ Packs / Versions:
 
  ![KSP version](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Fksp.json) ![CKAN listed](https://img.shields.io/badge/CKAN-DaMichel-brightgreen.svg) ![License CC BY-NC-ND 3.0](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fzer0Kerbal%2FDaMichel%2Fmaster%2Fjson%2Flicense.json)
  
-  ### [AeroRadial](https://github.com/zer0Kerbal/)
+  ### [AeroRadial](https://github.com/zer0Kerbal/AeroRadial)
  * Two (2) streamlined, radially attached power products. One RTG, the other a Liquid Fuel and Intake Air powered fuel cell.
  
  ### [CargoBays](https://github.com/zer0Kerbal/CargoBays)
@@ -34,14 +34,13 @@ Content originally created by @DaMichel.
 
 
 Packs / Versions:  
-![DaMichel Inc v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/mod.json) 
-![AeroRadial v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/json/mod.json)  
-![CargoBays v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/json/mod.json)  
-![Fuselage v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Fuselage/master/json/mod.json)  
-![SphericalTanks v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SphericalTanks/master/json/mod.json)  
-
-
-![DaMichel Parts Pack v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichelPartsPack/master/json/mod.json) 
+> ![DaMichel Inc v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/mod.json) 
+> ![AeroRadial v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/json/mod.json)  
+> ![CargoBays v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/json/mod.json)  
+> ![Fuselage v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Fuselage/master/json/mod.json)  
+> ![SphericalTanks v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/SphericalTanks/master/json/mod.json)  
+>  
+> ![DaMichel Parts Pack v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichelPartsPack/master/json/mod.json) 
 
 <!-- CC BY-NC-ND 3.0 Unported by zer0Kerbal-->
  
