@@ -24,8 +24,7 @@ This is a continuation of DaMichel's Part Pack.
 
 Licensed under CC-BY-SA-3.0 (Attribution, Share Alike)
 
-Content originally created by DaMichel.
-![Hero](https://raw.githubusercontent.com/zer0Kerbal/DaMichel/1.1.0.0/Images/12-CargoBay.jpg)
+Content originally created by @DaMichel.
 
 
 Packs / Versions:  
