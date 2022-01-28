@@ -34,7 +34,7 @@ Content originally created by @DaMichel.
 
 
 Packs / Versions:  
-> ![DaMichel Inc v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/mod.json) 
+> ![DaMichel Inc v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/mod.json)  
 > ![AeroRadial v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/AeroRadial/master/json/mod.json)  
 > ![CargoBays v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/CargoBays/master/json/mod.json)  
 > ![Fuselage v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/Fuselage/master/json/mod.json)  
