@@ -19,7 +19,7 @@ Packs / Versions:
  ### [Fuselage](https://github.com/zer0Kerbal/Fuselage)
  
  * Seven (7) flat fuselage pieces.
- * 
+ 
  ### [SphericalTanks](https://github.com/zer0Kerbal/SphericalTanks)
  
  * Five (5) 1.25m spherical tanks. Available in veteran orange.
