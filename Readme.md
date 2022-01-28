@@ -29,10 +29,14 @@ Content originally created by DaMichel.
 
 
 Packs / Versions:  
+![DaMichel Inc v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichel/master/json/mod.json) 
 ![AeroRadial v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DMAeroRadial/master/json/mod.json)  
 ![CargoBays v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DMCargoBays/master/json/mod.json)  
 ![Fuselage v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DMFuselage/master/json/mod.json)  
 ![SphericalTanks v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DMSphericalTanks/master/json/mod.json)  
+
+
+![DaMichel Parts Pack v](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/zer0Kerbal/DaMichelPartsPack/master/json/mod.json) 
 
 <!-- CC BY-NC-ND 3.0 Unported by zer0Kerbal-->
  
